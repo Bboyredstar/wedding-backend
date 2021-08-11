@@ -1,16 +1,148 @@
 {
-  "posts":[
+  "invitations": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": "610fe4d4db229fddb297ec30",
+      "guests": "Мама и Папа!",
+      "greetings": "Дорогие",
+      "table": 2,
+      "isResponsed": false,
+      "willCome": null
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "610fe4d41d938ea24f7a24f5",
+      "guests": "Мама и Папа!",
+      "greetings": "Дорогие",
+      "table": 1,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d4e025c6882eff3cc9",
+      "guests": "Кирилл и Аня!",
+      "greetings": "Дорогие",
+      "table": 3,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d4cede7fae5939a9b9",
+      "guests": "Соня и Коля!",
+      "greetings": "Дорогие",
+      "table": 3,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d46fed3d6e9c33d26b",
+      "guests": "Андрей, Катя, Ника и Дима!",
+      "greetings": "Дорогие",
+      "table": 2,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d48883fd4cc2f2ff35",
+      "guests": "Людмила Владимировна и Артур Михайлович!",
+      "greetings": "Дорогие",
+      "table": 1,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d4638e2f881a4e492f",
+      "guests": "Лёша, Даша, Лёня и Юра!",
+      "greetings": "Дорогие",
+      "table": 2,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d454ef62556a1aa180",
+      "guests": "Сергей Иванович, Ольга Анатольевна и Полина!",
+      "greetings": "Дорогие",
+      "table": 1,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d4795769aded41fb9f",
+      "guests": "Стас и Наташа!",
+      "greetings": "Дорогие",
+      "table": 3,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d477cd431d8f8274e6",
+      "guests": "Лера!",
+      "greetings": "Дорогая",
+      "table": 3,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d4a24e07932d0a73c5",
+      "guests": "Рита и Денис!",
+      "greetings": "Дорогие",
+      "table": 3,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d4b53c30faccda2281",
+      "guests": "Бабушка!",
+      "greetings": "Дорогая",
+      "table": 1,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d431b7ef8207e26a5c",
+      "guests": "Надежда Николаевна и Геннадий Николаевич!",
+      "greetings": "Уважаемые",
+      "table": 1,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d4939e3c462c18ace2",
+      "guests": "Александр и Лариса!",
+      "greetings": "Дорогие",
+      "table": 2,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d41c6056189b1f26ca",
+      "guests": "Дедушка и Лидия Владимировна!",
+      "greetings": "Дорогие",
+      "table": 2,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d4f2140972bf089f8d",
+      "guests": "Артур и Ангелина!",
+      "greetings": "Дорогие",
+      "table": 3,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d422f7af9abd8e0151",
+      "guests": "Юра!",
+      "greetings": "Дорогой",
+      "table": 3,
+      "isResponsed": false,
+      "willCome": null
+    },
+    {
+      "id": "610fe4d411f7af9abd8e0151",
+      "guests": "Test",
+      "greetings": "Дорогой",
+      "table": 3,
+      "isResponsed": false,
+      "willCome": null
     }
   ]
 }
